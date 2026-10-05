@@ -1,3 +1,7 @@
+> **Archived on 2026-10-04.** Future combined Minecraft 26.3 development continues in [Vanilla++ Quality of Life Suite](https://github.com/THENATHE/vanilla-plusplus-quality-of-life-suite). Existing standalone releases and source remain available here.
+>
+> This standalone project retains additional adapters, including Map Atlases and Interdimensional Map Markers. The suite intentionally includes only vanilla/MapStitch map sharing.
+
 # Shared Region Maps Shim
 
 **One region, one shared map record.** A server-side Fabric shim that lets players explore the same ordinary map together, with direct adapters for MapStitch, Map Atlases, and Interdimensional Map Markers.
